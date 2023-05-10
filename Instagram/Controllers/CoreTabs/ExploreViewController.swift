@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ExploreViewController.swift
 //  Instagram
 //
 //  Created by Baran on 10.05.2023.
@@ -7,13 +7,9 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ExploreViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
